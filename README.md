@@ -14,4 +14,4 @@ Previous Song: Go back to the previous song in the playlist.
 Prerequisites:
 Before using the Music Player, ensure that you have the following prerequisites installed on your system:
 Python 3.x,
-tkinter, pygame (for the graphical user interface)
+tkinter, pygame.
